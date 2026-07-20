@@ -1,0 +1,2 @@
+warning: compress_youtube v0.1.0 (/Users/sabharishhh/Developer/Rust/projects/compress_youtube) ignoring invalid dependency `cargo-expand` which is missing a lib target
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.06s
